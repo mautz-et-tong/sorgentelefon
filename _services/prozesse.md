@@ -3,6 +3,7 @@ title: "Prozesse"
 date: 2018-11-18T12:33:46+10:00
 weight: 3
 show_call_box: true
+layout: service
 ---
 
 ![chuttersnap-M3yYOCob6kE-unsplash.jpg](/images/services/chuttersnap-M3yYOCob6kE-unsplash.jpg)

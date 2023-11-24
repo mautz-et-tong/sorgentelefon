@@ -3,6 +3,7 @@ title: "Erfahrungsaustausch"
 date: 2018-11-18T12:33:46+10:00
 weight: 1
 show_call_box: true
+layout: service
 ---
 
 ![markus-winkler-jOkfw6YfRGs-unsplash.jpg](/images/services/markus-winkler-jOkfw6YfRGs-unsplash.jpg)

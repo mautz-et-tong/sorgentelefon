@@ -3,6 +3,7 @@ title: "Automatisierung"
 date: 2018-11-18T12:33:46+10:00
 weight: 4
 show_call_box: true
+layout: service
 ---
 
 ![Automatisierung](/images/services/timon-reinhard-nJjsD6COlHw-unsplash.jpg)

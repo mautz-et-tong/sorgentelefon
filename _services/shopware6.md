@@ -3,6 +3,7 @@ title: "Shopware 6"
 date: 2018-11-18T12:33:46+10:00
 weight: 2
 show_call_box: true
+layout: service
 ---
 
 Unsere Zukunft im Ecommerce ist Shopware 6, daher haben wir uns entschieden, uns auf dieses System zu spezialisieren. Wir haben bereits einige Projekte mit Shopware 6 umgesetzt und können euch daher bei der Umsetzung eures Projektes helfen.
