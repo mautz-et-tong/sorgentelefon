@@ -1,0 +1,29 @@
+[
+  {
+    "title": "Erstes Gespräch kostenlos",
+    "description": "Ich nehme mir Zeit für Euch und Eure Projekt.",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Feedback",
+    "description": "Ihr bekommt ehrliches Feedback zu Eurem Projekt.",
+    "image": {
+      "url": "images/features/noun_The Process_1885341.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+  {
+    "title": "Technischer Support",
+    "description": "Erweiterungen, Integration, Schnittstellen? Ich kann helfen.",
+    "image": {
+      "url": "images/features/noun_3d modeling_1885342.svg",
+      "width": 80,
+      "height": 80
+    }
+  }
+]
