@@ -2,12 +2,13 @@
   height: 100%;
   border: 1px solid $white-offset;
   border-radius: 3px;
-  padding: 20px;
   background-color: #ffffff;
   display: flex;
   align-items: center;
   flex-direction: column;
   text-align: center;
+  position: relative;
+  padding: 20px 20px 70px;
 
   .feature-image {
     flex: 0 0 auto;
